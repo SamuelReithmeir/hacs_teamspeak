@@ -1,6 +1,4 @@
 {
   "name": "TeamSpeak Server Info",
-  "render_readme": true,
-  "zip_release": true,
-  "filename": "samuelre_teamspeak.zip"
+  "render_readme": true
 }
