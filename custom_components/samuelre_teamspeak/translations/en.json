@@ -1,0 +1,56 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "API key",
+                    "host": "Host",
+                    "port": "Port",
+                    "scan_interval": "Update interval (seconds)",
+                    "server_id": "Virtual server ID"
+                },
+                "data_description": {
+                    "api_key": "Your TeamSpeak WebQuery API key",
+                    "host": "The IP address or hostname of the TeamSpeak server",
+                    "port": "The WebQuery port (default: 10080)",
+                    "scan_interval": "How often to poll the server (minimum: 5 seconds)",
+                    "server_id": "The virtual server ID (default: 1)"
+                },
+                "description": "Set up your TeamSpeak server connection. You can find the API key in your TeamSpeak server's WebQuery settings."
+            }
+        }
+    },
+    "entity": {
+        "sensor": {
+            "bandwidth_received": {
+                "name": "Bandwidth received"
+            },
+            "bandwidth_sent": {
+                "name": "Bandwidth sent"
+            },
+            "channels": {
+                "name": "Channels"
+            },
+            "clients_online": {
+                "name": "Clients online"
+            },
+            "max_clients": {
+                "name": "Max clients"
+            },
+            "server_status": {
+                "name": "Server status"
+            },
+            "uptime": {
+                "name": "Uptime"
+            }
+        }
+    }
+}

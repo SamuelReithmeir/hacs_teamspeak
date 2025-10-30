@@ -1,0 +1,5 @@
+{
+  "name": "TeamSpeak Server Info",
+  "render_readme": true,
+  "domains": ["sensor"]
+}
