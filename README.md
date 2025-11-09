@@ -44,7 +44,7 @@ Monitor your TeamSpeak server directly from Home Assistant! This integration pro
    - Click on "Integrations"
    - Click the three dots in the top right corner
    - Select "Custom repositories"
-   - Add `https://github.com/SamuelReithmeir/hacs_teamspeak` as repository
+   - Add `https://github.com/SamuelReithmeir/teamspeak_status_sensors` as repository
    - Select "Integration" as category
    - Click "Add"
 3. Click "Install" on the TeamSpeak Server Info card
@@ -146,7 +146,7 @@ This integration is not officially affiliated with or endorsed by TeamSpeak Syst
 
 **If you like this integration, please give it a ⭐ on GitHub!**
 
-[releases-shield]: https://img.shields.io/github/release/SamuelReithmeir/hacs_teamspeak.svg
-[releases]: https://github.com/SamuelReithmeir/hacs_teamspeak/releases
-[license-shield]: https://img.shields.io/github/license/SamuelReithmeir/hacs_teamspeak.svg
-[issues]: https://github.com/SamuelReithmeir/hacs_teamspeak/issues
+[releases-shield]: https://img.shields.io/github/release/SamuelReithmeir/teamspeak_status_sensors.svg
+[releases]: https://github.com/SamuelReithmeir/teamspeak_status_sensors/releases
+[license-shield]: https://img.shields.io/github/license/SamuelReithmeir/teamspeak_status_sensors.svg
+[issues]: https://github.com/SamuelReithmeir/teamspeak_status_sensors/issues
